@@ -1,9 +1,3 @@
-/*
-* C++ - Colas/Queue
-* Copyright 2014 Martin Cruz Otiniano
-* Description : Encola elemento, Desesencola elemento, Mostrar cola, Vaciar cola
-* Site        : martincruz.me
-*/
  
 #include <iostream>
 using namespace std;
